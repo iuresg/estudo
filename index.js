@@ -5,6 +5,4 @@ function sum(a, b){
 }
 
 const result = sum(4, 6)
-
 console.log(result)
-
