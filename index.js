@@ -22,3 +22,4 @@ function division(a, b){
 
 const resul = division(9, 4)
 
+alert(resul, res, result)
