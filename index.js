@@ -10,3 +10,8 @@ console.log(result)
 function multiply(a,b) {
   return  a * b
 }
+
+const res = multiply(6,8)
+
+console.log(res)
+
